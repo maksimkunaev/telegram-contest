@@ -1,4 +1,4 @@
-Frogogo
+Telegram contest
 
 To start:
 
